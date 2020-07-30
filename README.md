@@ -1,2 +1,2 @@
 # Coursera-Deep-Learning-Specialization
-Programming Assignments
+Weekly Quizzes & Programming Assignments
